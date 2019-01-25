@@ -1,0 +1,23 @@
+{
+    "short_name": "COSS",
+    "name": "COSS App",
+    "icons": [
+      {
+        "src": "/coss/images/files/ursca wordmarks-bold&light-web-2in_1.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/icons-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/coss/?source=pwa",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "orientation": "landscape",
+    "scope": "/coss/",
+    "theme_color": "#3367D6"
+  }
+  

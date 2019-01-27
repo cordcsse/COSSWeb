@@ -1,0 +1,9 @@
+.contact-info > p {
+  display: inline-block;
+  margin: 4px 4px;
+}
+.contact-label {
+  width: 50px;
+  text-align: left;
+  font-weight: bold;
+}

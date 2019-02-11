@@ -7,3 +7,7 @@
   text-align: left;
   font-weight: bold;
 }
+.column-2c {
+  display: inline-block;
+  background-color: aqua; width: 30%;
+} 
